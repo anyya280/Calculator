@@ -5,7 +5,7 @@ A simple calculator made using Python and Tkinter.
 ## Features
 - Basic operations
 - GUI interface
-- Pink aesthetic 💖
+- its pinkkkk 💖
 
 ## How to run
 Run the Python file using:
